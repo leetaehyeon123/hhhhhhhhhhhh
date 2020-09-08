@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-로그아웃
+로그아웃!
 </body>
 </html>
