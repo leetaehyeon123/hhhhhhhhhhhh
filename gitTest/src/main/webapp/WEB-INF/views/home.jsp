@@ -9,6 +9,6 @@
 	변화!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  변변변화. </P>
 </body>
 </html>
