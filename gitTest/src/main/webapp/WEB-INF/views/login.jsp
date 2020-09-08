@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<p>로그인 창입니다!!!!!</p>
-	<p>로그인창!!</p>
+	<p>잘생긴지원이</p>
 </body>
 </html>
